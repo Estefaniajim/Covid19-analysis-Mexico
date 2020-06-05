@@ -1,0 +1,38 @@
+Data Covid19 Mexico 
+General data
+Mean of age: 42.61859982666731
+Younger Pacient: 0.0
+Older Pacient: 120.0
+Standar Derivation Age: 16.834245723255417
+Infected of covid19 in Mexico: 293078.0
+Pacients that needed Intensive Care: 6047.0
+General data Female
+Total Female Infected of covid19: 143427.0
+Mean Female: 42.013205323962715
+Pregnant data Female
+Total Female Pregnant Infected of covid19: 2258.0
+Female Pregnant that needed Intensive Care: 47.0
+Total Female Asma Infected of covid19: 6351.0
+Female Asma that needed Intensive Care: 85.0
+Female Asma that develop Neumonia: 745.0
+Total Female diabetes Infected of covid19: 17532.0
+Female diabetes that needed Intensive Care: 710.0
+Total Female high blood pressure Infected of covid19: 23475.0
+Female high blood pressure that needed Intensive Care: 778.0
+Total Female obesity Infected of covid19: 24900.0
+Female obesity that needed Intensive Care: 591.0
+Total Female indigenous  Infected of covid19: 1446.0
+Female indigenous that needed Intensive Care: 37.0
+Total Male Infected of covid19: 149651.0
+Mean Male: 43.19881591168786
+Total Male Asma Infected of covid19: 4006.0
+Male Asma that needed Intensive Care: 73.0
+Male Asma that develop Neumonia: 596.0
+Total Male diabetes Infected of covid19: 20021.0
+Male diabetes that needed Intensive Care: 1126.0
+Total Male high blood pressure Infected of covid19: 25539.0
+Male high blood pressure that needed Intensive Care: 1188.0
+Total Male obesity Infected of covid19: 23586.0
+Male obesity that needed Intensive Care: 915.0
+Total Male indigenous  Infected of covid19: 1653.0
+Male indigenous that needed Intensive Care: 67.0
