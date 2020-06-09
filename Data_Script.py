@@ -12,7 +12,7 @@ data = pd.read_csv("DataCovid2020.csv", encoding='latin-1')  # We read the file
 file = open("results.txt", "w")  # We create a file to save all the information gather
 file.write("Data Covid19 Mexico \n")
 
-# Function to all the information about age
+# Function to all general information
 def general():
     global mean, yonger, older, std, count, UCI
     file.write("General data\n")
